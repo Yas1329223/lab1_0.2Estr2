@@ -1,0 +1,189 @@
+INSERT;{"isbn":"3872","name":"A History of the World in 6 Glasses","author":"Tom Standage","price":"37.40","quantity":"100"}
+INSERT;{"isbn":"91989","name":"Black Powder War (Temeraire, #3)","author":"Naomi Novik","price":"39.00","quantity":"100"}
+INSERT;{"isbn":"8089","name":"Rose Daughter","author":"Robin McKinley","price":"37.70","quantity":"100"}
+INSERT;{"isbn":"13572249","name":"Bared to You (Crossfire, #1)","author":"Sylvia Day","price":"41.90","quantity":"100"}
+DELETE;{"isbn":"46677"}
+INSERT;{"isbn":"127455","name":"The Lies of Locke Lamora (Gentleman Bastard, #1)","author":"Scott Lynch","price":"43.00","quantity":"100"}
+PATCH;{"isbn":"5296","price":"40.10"}
+INSERT;{"isbn":"3188186","name":"Run for Your Life (Michael Bennett, #2)","author":"James Patterson, Michael Ledwidge","price":"40.00","quantity":"100"}
+DELETE;{"isbn":"51362"}
+INSERT;{"isbn":"85392","name":"Term Limits","author":"Vince Flynn","price":"43.00","quantity":"100"}
+PATCH;{"isbn":"127455","price":"39.40"}
+PATCH;{"isbn":"51504","price":"35.30"}
+PATCH;{"isbn":"74389","author":"Elizabeth Ross, ROFry"}
+PATCH;{"isbn":"78039","quantity":"100"}
+DELETE;{"isbn":"266607"}
+DELETE;{"isbn":"10619"}
+INSERT;{"isbn":"6696465","name":"Finally (Willow Falls, #2)","author":"Wendy Mass","price":"41.90","quantity":"100"}
+PATCH;{"isbn":"17204860","price":"43.10"}
+INSERT;{"isbn":"78039","name":"Ramona the Pest (Ramona, #2)","author":"Beverly Cleary","price":"40.40","quantity":"100"}
+PATCH;{"isbn":"254308","quantity":"100"}
+INSERT;{"isbn":"15157","name":"Saving Faith","author":"David Baldacci","price":"38.20","quantity":"100"}
+DELETE;{"isbn":"5296"}
+PATCH;{"isbn":"295132","quantity":"100"}
+INSERT;{"isbn":"5552","name":"QED: The Strange Theory of Light and Matter","author":"Richard Feynman","price":"42.30","quantity":"100"}
+PATCH;{"isbn":"23876","quantity":"100"}
+INSERT;{"isbn":"23876","name":"Of Love and Other Demons","author":"Gabriel Garc\u00eda M\u00e1rquez","price":"39.80","quantity":"100"}
+DELETE;{"isbn":"161361"}
+PATCH;{"isbn":"1747896","author":"John Steinbeck"}
+INSERT;{"isbn":"262229","name":"Q is for Quarry (Kinsey Millhone, #17)","author":"Sue Grafton","price":"39.10","quantity":"100"}
+INSERT;{"isbn":"71864","name":"The Dead of Night (Tomorrow, #2)","author":"John Marsden","price":"41.30","quantity":"100"}
+INSERT;{"isbn":"51362","name":"The Survivors Club","author":"Lisa Gardner","price":"40.50","quantity":"100"}
+INSERT;{"isbn":"17572903","name":"The Girl You Left Behind","author":"Jojo Moyes","price":"39.50","quantity":"100"}
+INSERT;{"isbn":"597","name":"Killing Yourself to Live: 85% of a True Story","author":"Chuck Klosterman","price":"38.50","quantity":"100"}
+INSERT;{"isbn":"270807","name":"Burned (Burned, #1)","author":"Ellen Hopkins","price":"42.40","quantity":"100"}
+INSERT;{"isbn":"1747896","name":"The Suspicions of Mr. Whicher: A Shocking Murder and the Undoing of a Great Victorian Detective","author":"Kate Summerscale","price":"34.30","quantity":"100"}
+INSERT;{"isbn":"38296","name":"The Last of the Mohicans (The Leatherstocking Tales #2)","author":"James Fenimore Cooper","price":"36.90","quantity":"100"}
+PATCH;{"isbn":"313631","quantity":"100"}
+PATCH;{"isbn":"206193","price":"36.20"}
+INSERT;{"isbn":"4570768","name":"Willow","author":"Julia Hoban","price":"39.40","quantity":"100"}
+PATCH;{"isbn":"22923997","author":"Bill Clegg"}
+INSERT;{"isbn":"563458","name":"Fallen Hearts (Casteel, #3)","author":"V.C. Andrews","price":"38.90","quantity":"100"}
+INSERT;{"isbn":"336161","name":"The Grouchy Ladybug","author":"Eric Carle","price":"40.90","quantity":"100"}
+PATCH;{"isbn":"89370","quantity":"100"}
+DELETE;{"isbn":"99218"}
+PATCH;{"isbn":"11254250","price":"40.80"}
+INSERT;{"isbn":"3679","name":"On Beauty","author":"Zadie Smith","price":"36.80","quantity":"100"}
+DELETE;{"isbn":"16303287"}
+INSERT;{"isbn":"368916","name":"84, Charing Cross Road","author":"Helene Hanff","price":"41.90","quantity":"100"}
+DELETE;{"isbn":"920607"}
+INSERT;{"isbn":"10766509","name":"The Best of Me","author":"Nicholas Sparks","price":"39.10","quantity":"100"}
+INSERT;{"isbn":"241936","name":"The Last Detective (Elvis Cole, #9)","author":"Robert Crais","price":"42.40","quantity":"100"}
+DELETE;{"isbn":"9583508"}
+INSERT;{"isbn":"229149","name":"Cardcaptor Sakura: Master of the Clow, Vol. 1 (Cardcaptor Sakura, #7)","author":"CLAMP, Anita Sengupta","price":"43.40","quantity":"100"}
+INSERT;{"isbn":"5061675","name":"A Game of Thrones / A Clash of Kings (A Song of Ice and Fire, #1-2)","author":"George R.R. Martin","price":"45.30","quantity":"100"}
+INSERT;{"isbn":"89370","name":"Tao of Pooh and Te of Piglet Boxed Set","author":"Benjamin Hoff","price":"41.50","quantity":"100"}
+DELETE;{"isbn":"49234"}
+INSERT;{"isbn":"295132","name":"Care of the Soul: A Guide for Cultivating Depth and Sacredness in Everyday Life","author":"Thomas  Moore","price":"39.90","quantity":"100"}
+INSERT;{"isbn":"99218","name":"The Machine Crusade (Legends of Dune, #2)","author":"Brian Herbert, Kevin J. Anderson","price":"37.30","quantity":"100"}
+INSERT;{"isbn":"22151696","name":"Lullabies","author":"Lang Leav","price":"40.50","quantity":"100"}
+INSERT;{"isbn":"368916","name":"84, Charing Cross Road","author":"Helene Hanff","price":"41.90","quantity":"100"}
+INSERT;{"isbn":"13402447","name":"UnEnchanted (An Unfortunate Fairy Tale, #1)","author":"Chanda Hahn","price":"38.90","quantity":"100"}
+INSERT;{"isbn":"353342","name":"The Cross of Lead (Crispin, #1)","author":"Avi","price":"35.90","quantity":"100"}
+PATCH;{"isbn":"49234","quantity":"100"}
+DELETE;{"isbn":"13374"}
+INSERT;{"isbn":"5886881","name":"Dark Places","author":"Gillian Flynn","price":"39.20","quantity":"100"}
+DELETE;{"isbn":"336161"}
+DELETE;{"isbn":"3188186"}
+INSERT;{"isbn":"706","name":"America (The Book): A Citizen's Guide to Democracy Inaction","author":"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms","price":"40.20","quantity":"100"}
+DELETE;{"isbn":"103342"}
+DELETE;{"isbn":"7147831"}
+INSERT;{"isbn":"9594","name":"Timequake","author":"Kurt Vonnegut Jr.","price":"37.10","quantity":"100"}
+INSERT;{"isbn":"43917","name":"Rise of a Merchant Prince (The Serpentwar Saga, #2)","author":"Raymond E. Feist","price":"40.20","quantity":"100"}
+DELETE;{"isbn":"303460"}
+PATCH;{"isbn":"16303287","price":"38.40"}
+PATCH;{"isbn":"597","price":"42.30"}
+INSERT;{"isbn":"76237","name":"The Further Adventures of Sherlock Holmes: After Sir Arthur Conan Doyle (Classic Crime)","author":"Richard Lancelyn Green, Ronald Knox, Julian Symons, Various","price":"44.00","quantity":"100"}
+PATCH;{"isbn":"43884","price":"41.20"}
+INSERT;{"isbn":"153800","name":"Lady Knight (Protector of the Small, #4)","author":"Tamora Pierce","price":"43.00","quantity":"100"}
+INSERT;{"isbn":"9583508","name":"Smokin' Seventeen (Stephanie Plum, #17)","author":"Janet Evanovich, Lorelei King","price":"39.40","quantity":"100"}
+INSERT;{"isbn":"17688","name":"The Metamorphosis, In the Penal Colony, and Other Stories: The Great Short Works of Franz Kafka","author":"Franz Kafka","price":"40.20","quantity":"100"}
+INSERT;{"isbn":"254308","name":"Oblomov","author":"Ivan Goncharov, Stephen Pearl, Galya Diment","price":"40.00","quantity":"100"}
+INSERT;{"isbn":"4497978","name":"Desire Unchained (Demonica #2)","author":"Larissa Ione","price":"42.50","quantity":"100"}
+PATCH;{"isbn":"95617","author":"P.L. Travers, Mary Shepard"}
+INSERT;{"isbn":"7184","name":"Twenty Years After (The D'Artagnan Romances, #2)","author":"Alexandre Dumas, David Coward, Auguste Maquet","price":"40.10","quantity":"100"}
+INSERT;{"isbn":"313631","name":"More Than a Carpenter","author":"Josh McDowell","price":"41.90","quantity":"100"}
+INSERT;{"isbn":"331701","name":"Stone Soup","author":"Jon J. Muth","price":"41.50","quantity":"100"}
+PATCH;{"isbn":"153800","quantity":"100"}
+INSERT;{"isbn":"13374","name":"A Complicated Kindness","author":"Miriam Toews","price":"36.40","quantity":"100"}
+DELETE;{"isbn":"17688"}
+INSERT;{"isbn":"13623150","name":"Destroy Me (Shatter Me, #1.5)","author":"Tahereh Mafi","price":"42.70","quantity":"100"}
+INSERT;{"isbn":"381489","name":"Private (Private, #1)","author":"Kate Brian","price":"38.10","quantity":"100"}
+PATCH;{"isbn":"5886881","author":"Christopher Moore"}
+DELETE;{"isbn":"16158535"}
+DELETE;{"isbn":"22151696"}
+INSERT;{"isbn":"1388813","name":"Midnight Awakening (Midnight Breed, #3)","author":"Lara Adrian","price":"42.50","quantity":"100"}
+INSERT;{"isbn":"161361","name":"The Christmas Box (The Christmas Box, #1)","author":"Richard Paul Evans","price":"39.50","quantity":"100"}
+INSERT;{"isbn":"95617","name":"A Voice in the Wind (Mark of the Lion, #1)","author":"Francine Rivers, Richard Ferrone","price":"46.00","quantity":"100"}
+PATCH;{"isbn":"9594","quantity":"100"}
+DELETE;{"isbn":"11260526"}
+PATCH;{"isbn":"51362","author":"Nora Roberts"}
+INSERT;{"isbn":"303460","name":"Among the Betrayed (Shadow Children, #3)","author":"Margaret Peterson Haddix","price":"40.60","quantity":"100"}
+INSERT;{"isbn":"17572903","name":"The Girl You Left Behind","author":"Jojo Moyes","price":"39.50","quantity":"100"}
+INSERT;{"isbn":"103342","name":"Stolen Lives: Twenty Years in a Desert Jail","author":"Malika Oufkir, Mich\u00e8le Fitoussi","price":"40.80","quantity":"100"}
+INSERT;{"isbn":"49234","name":"The Third Chimpanzee: The Evolution and Future of the Human Animal","author":"Jared Diamond","price":"40.40","quantity":"100"}
+DELETE;{"isbn":"43884"}
+PATCH;{"isbn":"9424367","price":"37.60"}
+INSERT;{"isbn":"38447","name":"The Handmaid's Tale","author":"Margaret Atwood","price":"40.60","quantity":"100"}
+INSERT;{"isbn":"9424367","name":"Prized (Birthmarked, #2)","author":"Caragh M. O'Brien","price":"39.90","quantity":"100"}
+DELETE;{"isbn":"95617"}
+INSERT;{"isbn":"428862","name":"Wreck This Journal","author":"Keri Smith","price":"41.90","quantity":"100"}
+DELETE;{"isbn":"153800"}
+PATCH;{"isbn":"16297","quantity":"100"}
+INSERT;{"isbn":"55229","name":"April 1865: The Month That Saved America","author":"Jay Winik","price":"41.50","quantity":"100"}
+INSERT;{"isbn":"206193","name":"Takedown (Scot Harvath, #5)","author":"Brad Thor","price":"42.60","quantity":"100"}
+DELETE;{"isbn":"331701"}
+INSERT;{"isbn":"17333237","name":"Stella Bain","author":"Anita Shreve","price":"34.10","quantity":"100"}
+PATCH;{"isbn":"103342","author":"Yukio Mishima, John Nathan"}
+INSERT;{"isbn":"43884","name":"Phantom (Sword of Truth, #10)","author":"Terry Goodkind","price":"39.90","quantity":"100"}
+INSERT;{"isbn":"17204860","name":"Jet (Marked Men, #2)","author":"Jay Crownover","price":"40.90","quantity":"100"}
+DELETE;{"isbn":"597"}
+INSERT;{"isbn":"9526658","name":"Black Dawn (The Morganville Vampires, #12)","author":"Rachel Caine","price":"42.60","quantity":"100"}
+PATCH;{"isbn":"706","price":"43.90"}
+INSERT;{"isbn":"17798233","name":"Rome (Marked Men, #3)","author":"Jay Crownover, Charlotte Connan de vries","price":"42.20","quantity":"100"}
+INSERT;{"isbn":"5190","name":"Open House","author":"Elizabeth Berg","price":"36.80","quantity":"100"}
+PATCH;{"isbn":"522525","price":"38.70"}
+INSERT;{"isbn":"13497","name":"A Feast for Crows (A Song of Ice and Fire, #4)","author":"George R.R. Martin","price":"41.00","quantity":"100"}
+INSERT;{"isbn":"16071764","name":"Lean In: Women, Work, and the Will to Lead","author":"Sheryl Sandberg, Nell Scovell","price":"39.40","quantity":"100"}
+DELETE;{"isbn":"368916"}
+PATCH;{"isbn":"7147831","price":"40.00"}
+DELETE;{"isbn":"1330324"}
+INSERT;{"isbn":"74389","name":"The Plains of Passage (Earth's Children, #4)","author":"Jean M. Auel","price":"37.70","quantity":"100"}
+INSERT;{"isbn":"920607","name":"The Arrival","author":"Shaun Tan","price":"43.30","quantity":"100"}
+DELETE;{"isbn":"17798233"}
+INSERT;{"isbn":"4714126","name":"The Walking Dead, Vol. 09: Here We Remain","author":"Robert Kirkman, Charlie Adlard, Cliff Rathburn","price":"42.50","quantity":"100"}
+INSERT;{"isbn":"46677","name":"Alexander and the Terrible, Horrible, No Good, Very Bad Day","author":"Judith Viorst, Ray Cruz","price":"42.20","quantity":"100"}
+INSERT;{"isbn":"266607","name":"Valiant (Modern Faerie Tales #2)","author":"Holly Black","price":"39.20","quantity":"100"}
+DELETE;{"isbn":"9526658"}
+PATCH;{"isbn":"13497","author":"Machado de Assis"}
+INSERT;{"isbn":"21413662","name":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions","author":"Randall Munroe","price":"41.70","quantity":"100"}
+PATCH;{"isbn":"5552","price":"42.70"}
+INSERT;{"isbn":"5296","name":"An Ideal Husband","author":"Oscar Wilde","price":"40.30","quantity":"100"}
+PATCH;{"isbn":"7184","author":"Garth Stein"}
+INSERT;{"isbn":"16158535","name":"A Hundred Summers","author":"Beatriz Williams","price":"39.00","quantity":"100"}
+PATCH;{"isbn":"3188186","quantity":"100"}
+DELETE;{"isbn":"78039"}
+INSERT;{"isbn":"53496","name":"Walk Two Moons","author":"Sharon Creech","price":"39.50","quantity":"100"}
+INSERT;{"isbn":"7147831","name":"Min kamp 1 (Min kamp #1)","author":"Karl Ove Knausg\u00e5rd","price":"40.80","quantity":"100"}
+DELETE;{"isbn":"313631"}
+INSERT;{"isbn":"4201106","name":"A Rule Against Murder (Chief Inspector Armand Gamache, #4)","author":"Louise Penny","price":"42.10","quantity":"100"}
+PATCH;{"isbn":"2002","author":"Matt Ridley"}
+PATCH;{"isbn":"1025250","author":"R.L. Mathewson"}
+INSERT;{"isbn":"21796","name":"Marathon Man","author":"William Goldman","price":"41.10","quantity":"100"}
+PATCH;{"isbn":"46677","quantity":"100"}
+DELETE;{"isbn":"16071764"}
+INSERT;{"isbn":"10619","name":"Rose Madder","author":"Stephen King","price":"36.60","quantity":"100"}
+INSERT;{"isbn":"41865","name":"Twilight (Twilight, #1)","author":"Stephenie Meyer","price":"35.70","quantity":"100"}
+PATCH;{"isbn":"563458","price":"43.10"}
+INSERT;{"isbn":"522525","name":"Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts","author":"Carol Tavris, Elliot Aronson","price":"39.90","quantity":"100"}
+PATCH;{"isbn":"78971","quantity":"100"}
+INSERT;{"isbn":"31168","name":"Shirley","author":"Charlotte Bront\u00eb, Lucasta Miller, collaborative, Jessica Cox","price":"37.10","quantity":"100"}
+PATCH;{"isbn":"11260526","quantity":"100"}
+PATCH;{"isbn":"53496","author":"Ravinder Singh"}
+INSERT;{"isbn":"22923997","name":"Overruled (The Legal Briefs, #1)","author":"Emma Chase","price":"38.30","quantity":"100"}
+INSERT;{"isbn":"16297","name":"Cards on the Table (Hercule Poirot, #15)","author":"Agatha Christie","price":"39.00","quantity":"100"}
+PATCH;{"isbn":"353342","quantity":"100"}
+INSERT;{"isbn":"78971","name":"False Impression","author":"Jeffrey Archer","price":"36.70","quantity":"100"}
+INSERT;{"isbn":"13041934","name":"Can Love Happen Twice?","author":"Ravinder Singh","price":"33.10","quantity":"100"}
+PATCH;{"isbn":"16071764","quantity":"100"}
+INSERT;{"isbn":"1330324","name":"Sea of Poppies (Ibis Trilogy, #1)","author":"Amitav Ghosh","price":"39.30","quantity":"100"}
+INSERT;{"isbn":"16303287","name":"The Bane Chronicles","author":"Cassandra Clare, Sarah Rees Brennan, Maureen Johnson, Cassandra Jean","price":"42.00","quantity":"100"}
+PATCH;{"isbn":"13572249","author":"Umberto Eco, William Weaver, R.C.S. Libri"}
+DELETE;{"isbn":"4714126"}
+INSERT;{"isbn":"51504","name":"Post Office","author":"Charles Bukowski","price":"40.10","quantity":"100"}
+PATCH;{"isbn":"99218","price":"38.30"}
+PATCH;{"isbn":"17688","author":"Isaac Asimov"}
+PATCH;{"isbn":"368916","price":"40.00"}
+PATCH;{"isbn":"331701","price":"43.00"}
+INSERT;{"isbn":"11260526","name":"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)","author":"Mark Cotta Vaz","price":"43.00","quantity":"100"}
+INSERT;{"isbn":"2002","name":"Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry","author":"J.K. Rowling","price":"44.00","quantity":"100"}
+PATCH;{"isbn":"4570768","quantity":"100"}
+DELETE;{"isbn":"9424367"}
+DELETE;{"isbn":"76237"}
+PATCH;{"isbn":"55229","price":"38.40"}
+PATCH;{"isbn":"17333237","author":"H.W. Janson, Anthony F. Janson"}
+PATCH;{"isbn":"270807","price":"37.60"}
+DELETE;{"isbn":"7184"}
+INSERT;{"isbn":"11254250","name":"Cabin Fever (Diary of a Wimpy Kid, #6)","author":"Jeff Kinney","price":"42.10","quantity":"100"}
+INSERT;{"isbn":"10909804","name":"Just My Type: A Book About Fonts","author":"Simon Garfield","price":"37.90","quantity":"100"}
+INSERT;{"isbn":"1025250","name":"Schooled","author":"Gordon Korman","price":"38.20","quantity":"100"}

@@ -1,0 +1,37 @@
+﻿  Lab 1 B.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(301,68): error C2512: 'BookNode::BookNode': no hay disponible un constructor predeterminado adecuado
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(301,68): message : al hacer coincidir la lista de argumentos '()'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(305,15): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<const std::string,BookNode>::pair<std::tuple<const std::string &>,std::tuple<>,0,>(_Tuple1 &,_Tuple2 &,std::integer_sequence<size_t,0>,std::integer_sequence<size_t>)" que se está compilando
+          with
+          [
+              _Tuple1=std::tuple<const std::string &>,
+              _Tuple2=std::tuple<>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<const std::string,BookNode>::pair<const std::string&,>(std::piecewise_construct_t,std::tuple<const std::string &>,std::tuple<>)" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\list(586,25): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const std::piecewise_construct_t&,std::tuple<const std::string &>,std::tuple<>>(_Alloc &,_Objty *const ,const std::piecewise_construct_t &,std::tuple<const std::string &> &&,std::tuple<> &&)" que se está compilando
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const std::string,BookNode>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,BookNode>>>::void_pointer>>,
+              _Ty=std::pair<const std::string,BookNode>,
+              _Objty=std::pair<const std::string,BookNode>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xhash(702,49): message : Vea la referencia a la creación de una instancia de la función plantilla "std::_List_node_emplace_op2<std::allocator<std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<const std::piecewise_construct_t&,std::tuple<const std::string &>,std::tuple<>>(_Alnode &,const std::piecewise_construct_t &,std::tuple<const std::string &> &&,std::tuple<> &&)" que se está compilando
+          with
+          [
+              _Ty=std::pair<const std::string,BookNode>,
+              _Alloc=std::allocator<std::pair<const std::string,BookNode>>,
+              _Alnode=std::allocator<std::_List_node<std::pair<const std::string,BookNode>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,BookNode>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\unordered_map(438,20): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Hash<std::_Umap_traits<_Kty,BookNode,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::_Try_emplace<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>&,>(_Keyty)" que se está compilando
+          with
+          [
+              _Ty=std::pair<const std::string,BookNode>,
+              _Alloc=std::allocator<std::pair<const std::string,BookNode>>,
+              _Kty=std::string,
+              _Hasher=std::hash<std::string>,
+              _Keyeq=std::equal_to<std::string>,
+              _Keyty=const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\unordered_map(437,18): message : al compilar la función del miembro clase plantilla "BookNode &std::unordered_map<std::string,BookNode,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,BookNode>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)"
+C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\Lab 1 B\Lab 1 B.cpp(38,25): message : vea la primera referencia a “std::unordered_map<std::string,BookNode,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,BookNode>>>::operator []” en “BookInventory::insertBook”
+C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\Lab 1 B\Lab 1 B.cpp(32,37): message : Vea la referencia a la creación de una instancia de clase plantilla "std::unordered_map<std::string,BookNode,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,BookNode>>>" que se está compilando
